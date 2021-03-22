@@ -5,7 +5,9 @@ Grading Project with Kelly Rivera
 Theory
 - 💞️ I’m looking to collaborate on improving my 
 libraries and repositories
-- 📫 How to reach me MMontada@stu.edu
+- 📫 How to reach me: MMontada@stu.edu;
+LinkedIn: 
+https://www.linkedin.com/in/matthew-montada-1aaa761a3
 
 <!---
 MattMontadaSTU/MattMontadaSTU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
