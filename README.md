@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @MattMontadaSTU
 - 👀 I’m interested in creating a Jupyter Auto-
 Grading Project with Kelly Rivera
-- 🌱 I’m currently learning Intro To Computational
-Theory
+- 🌱 I’m currently learning (and am 
+passionate about): Intro To Computational Theory &
+Topics in Data Analytics
 - 💞️ I’m looking to collaborate on improving my 
 libraries and repositories
 - 📫 How to reach me: MMontada@stu.edu;
